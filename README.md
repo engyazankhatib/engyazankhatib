@@ -1,6 +1,6 @@
 # YAZAN AL-KHATIB
 **Senior Full-Stack Developer & DevOps Engineer**
-📍 Damascus, Syria | 📧 yazan.khatib.dev@gmail.com | 🔗 github.com/engyazankhatib
+📍 Damascus, Syria | 📧 eng.yazankhatib@gmail.com | 🔗 github.com/engyazankhatib
 
 ---
 
